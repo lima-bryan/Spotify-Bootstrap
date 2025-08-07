@@ -1,8 +1,8 @@
-# Música para todos - Spotify Clone
+# 🎵 Música para todos - Spotify Clone
 Projeto de página web simples que simula uma landing page do Spotify, com foco em mostrar os principais recursos do serviço de streaming musical.
 ##
 🚀 Sobre o projeto
-Este projeto é uma página estática feita em HTML, CSS e Bootstrap 4 que apresenta um layout responsivo para promover o Spotify, destacando funcionalidades, playlists, e links úteis. Ideal para quem está aprendendo front-end e quer praticar layout com Bootstrap.
+Este projeto é uma página estática feita em HTML, CSS e Bootstrap 4 que apresenta um layout responsivo para promover o Spotify, destacando funcionalidades, playlists, e links úteis.
 ##
 🛠 Tecnologias utilizadas
 HTML5
